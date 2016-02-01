@@ -11,7 +11,7 @@ What is the Project to do?
 
 How work the progject?
 -----------------------------------
-###1. Download the source file(run_analysis.R)
-###2. Download the data file(UCI HAR Dataset)
-###3. Put the source file and data file in the same floder
-###4. Run source("run_analysis.R"), then you can see a new file tiny_data.txt in your working directory
+   1. Download the source file(run_analysis.R)
+   2. Download the data file(UCI HAR Dataset)
+   3. Put the source file and data file in the same floder
+   4. Run source("run_analysis.R"), then you can see a new file tiny_data.txt in your working directory
