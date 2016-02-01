@@ -16,7 +16,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
    DataSet
 -----------------------------------
   
-  The dataset includes the following files:
+###The dataset includes the following files:
 
   'README.txt'
   
@@ -34,7 +34,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
   
   'test/y_test.txt': Test labels.
 
-  The following files are available for the train and test data. Their descriptions are equivalent.
+###The following files are available for the train and test data. Their descriptions are equivalent.
   
   'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
   
@@ -60,9 +60,15 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
   5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
    The steps for the script:
 -----------------------------------
-   1. load the features and activity labels of the dataset
-   2. bind the test data
-   3. bind the train data
-   4. merge the train and test data
-   5. Extract the mean and standard deviation column names and data
-   6. Output the tidy data file
+  
+  1. load the features and activity labels of the dataset
+  
+  2. bind the test data
+  
+  3. bind the train data
+  
+  4. merge the train and test data
+  
+  5. Extract the mean and standard deviation column names and data
+  
+  6. Output the tidy data file
